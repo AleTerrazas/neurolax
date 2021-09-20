@@ -1,7 +1,7 @@
 # TODO
 
 - Ale
-* Orden de las secciones de la LP
+* Orden de las secciones de la LP ✅
 * Footer de la LP
 
 - Paola
