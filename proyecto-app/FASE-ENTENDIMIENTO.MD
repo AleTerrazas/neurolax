@@ -23,23 +23,30 @@ Problemas de app
 
 ## Ejercicio - Observación de usuarios
 
-- Persona uno:  Nunca sirve el id
-
+- Persona uno:  
+¿Qué observaron?
+Nunca sirve el id
 Me pregunta si soy Estudiante o estudiante
 Los horarios están mal
+¿Que cambiarías?
 Dbería haber algo para Pagar
 Sin tanto enlace
 
-- Persona dos: Que funcione chido
+- Persona dos: 
+¿Que cambiarías?
+Que funcione chido
 Nadie la usa por que es difícil
 Link zoom
 Link a bright space
+¿Qué observaron?
 Santander (no entiendo)
 
 -Persona tres: 
+¿Qué observaron?
 Actividades 
 Widget 
 Log in out 
 Es difícil usarla
 Cada cierto tiempo me saca y debo poner todo otra vez
+¿Que cambiarías?
 Cafetería, debería haber algo para ordenar o pagar con la app
