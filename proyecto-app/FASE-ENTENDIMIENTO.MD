@@ -29,7 +29,7 @@ Nunca sirve el id
 Me pregunta si soy Estudiante o estudiante
 Los horarios están mal
 ¿Que cambiarías?
-Dbería haber algo para Pagar
+Debería haber algo para Pagar
 Sin tanto enlace
 
 - Persona dos: 
@@ -50,3 +50,36 @@ Es difícil usarla
 Cada cierto tiempo me saca y debo poner todo otra vez
 ¿Que cambiarías?
 Cafetería, debería haber algo para ordenar o pagar con la app
+
+
+
+
+Procesos de negocio:
+
+Nuevas funciones:
+Cafetería, debería haber algo para ordenar o pagar con la app
+Debería haber algo para Pagar
+
+Usabilidad:
+
+Ubicación de la inf:
+Link zoom
+Link a bright space
+Cada cierto tiempo me saca y debo poner todo otra vez
+
+Soporte:
+
+Reducción de errores:
+Nunca sirve el id
+Me pregunta si soy Estudiante o estudiante
+Los horarios están mal
+
+Estética:
+Nadie la usa por que es difícil
+
+Modularidad:
+
+
+
+Eliminar funcionalidad obsoleta:
+Santander (no entiendo)
