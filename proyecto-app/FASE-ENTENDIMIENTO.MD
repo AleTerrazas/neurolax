@@ -52,7 +52,7 @@ Cada cierto tiempo me saca y debo poner todo otra vez
 Cafetería, debería haber algo para ordenar o pagar con la app
 
 
-
+LISTA DE TAREAS:
 
 Procesos de negocio:
 
@@ -79,7 +79,7 @@ Nadie la usa por que es difícil
 
 Modularidad:
 
-
-
 Eliminar funcionalidad obsoleta:
 Santander (no entiendo)
+
+Issue
