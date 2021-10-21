@@ -124,7 +124,7 @@ Punto     |     Categoría        |      Prioridad     |        Impacto     |   
 31           Estética                    Medio               Medio             Es fificil                    1000
 35           Estética                    Baja                Bajo             Confunde                       3000
 36            Modularidad                Baja                Medio            Confunde                       1500
- 37     Eliminar funcionalidad obsoleta   Media             Alto              Nadie entiende                 1500
+37     Eliminar funcionalidad obsoleta   Media             Alto              Nadie entiende                 1500
        
 
               
